@@ -1,0 +1,2 @@
+# msgolib
+Go stuff
